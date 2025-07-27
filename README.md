@@ -17,9 +17,9 @@ This project explores and visualizes Zomato restaurant data to uncover trends in
 
 ## Sample Visualizations
 ### Top 10 Cuisines
-![Top Cuisines](images/top_cuisines.png)
+![Top Cuisines](price_vs_rating.png)
 ### Price vs Rating
-![Price vs Rating](images/price_vs_rating.png)
+![Price vs Rating](price_vs_rating.png)
 
 ## Key Insights
 - **North Indian** and **Chinese** cuisines are most popular.
