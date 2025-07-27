@@ -17,7 +17,7 @@ This project explores and visualizes Zomato restaurant data to uncover trends in
 
 ## Sample Visualizations
 ### Top 10 Cuisines
-![Top Cuisines](price_vs_rating.png)
+![Top Cuisines](top_cuisines.png)
 ### Price vs Rating
 ![Price vs Rating](price_vs_rating.png)
 
